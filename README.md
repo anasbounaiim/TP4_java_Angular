@@ -18,7 +18,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via Karma.
 
-##Database 📁
+## Database 📁
 
 This project uses a JSON database utilizing JSON Server, providing a full fake REST API with db.json located under the data directory for development and testing purposes.
 
